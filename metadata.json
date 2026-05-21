@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Round Knob Controller",
+  "description": "An interactive 1.5-inch circular smart home controller with haptic-drag mechanics and Apple Watch-inspired animations for table height, AC, lights, and curtains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

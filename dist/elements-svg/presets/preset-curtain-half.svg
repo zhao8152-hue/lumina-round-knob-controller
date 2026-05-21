@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56">
+  <defs>
+    <filter id="g">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#818cf8" flood-opacity="0.5" />
+    </filter>
+  </defs>
+  <circle cx="28" cy="28" r="28" fill="#818cf8" filter="url(#g)" />
+  <g transform="translate(16, 14)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/>
+  </g>
+  <text x="28" y="44" text-anchor="middle" font-family="Inter, sans-serif" font-size="7" font-weight="700"
+    fill="white" letter-spacing="1">HALF</text>
+</svg>

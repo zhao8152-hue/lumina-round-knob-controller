@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56">
+  <defs>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="rgba(6,182,212,0.5)" />
+    </filter>
+  </defs>
+  <circle cx="28" cy="28" r="28" fill="#06b6d4" filter="url(#glow)" />
+  <g transform="translate(15, 15)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="12 4 6 11 18 11"/><polyline points="12 20 6 13 18 13"/>
+  </g>
+</svg>

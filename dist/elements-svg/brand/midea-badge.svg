@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <rect x="0" y="10" width="200" height="40" rx="20" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <g transform="translate(60, 20)">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fb923c" stroke-width="2" stroke-linecap="round">
+      <path d="M6 12c0-4 2-8 6-8s6 4 6 8"/>
+      <path d="M12 4v16"/>
+      <path d="M9 16l3 3 3-3"/>
+      <path d="M4 12h16"/>
+    </svg>
+  </g>
+  <text x="84" y="34" font-family="Inter, sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="rgba(255,255,255,0.4)">MIDEA</text>
+</svg>
